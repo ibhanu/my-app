@@ -1,0 +1,13 @@
+{
+  "title": "Nested Homes",
+  "text": "Nested Homes is a Real Estate Marketing firm in Bangalore dealing with premier real estate properties.",
+  "button": [
+    {
+      "title": "Explore"
+    },
+    {
+      "title": "Learn more",
+      "color": "#fff"
+    }
+  ]
+}

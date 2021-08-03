@@ -1,0 +1,16 @@
+{
+  "title": "About US",
+  "text": "We use professional state of-the-art techniques specializing in the marketing, listing and selling of new and resale luxury homes, residential communities, home sites and investment opportunities.",
+  "section": [
+    {
+      "title": "How would it help you?",
+      "content": "We maintain a full-time staff of well-trained real estate professionals who continually strive to provide top quality service for their individual clients and customers.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Why us?",
+      "content": "Nested Homes is a creative, innovative and people-oriented organization providing individual opportunity, personal satisfaction and rewarding challenges to all members of the firm.",
+      "icon": "notes.svg"
+    }
+  ]
+}
