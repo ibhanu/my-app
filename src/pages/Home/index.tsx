@@ -1,4 +1,5 @@
 import { lazy } from "react";
+import MyCarousel  from "../../components/MyCarousal/MyCarousal";
 import AboutContent from "../../content/AboutContent.json";
 import ContactContent from "../../content/ContactContent.json";
 import IntroContent from "../../content/IntroContent.json";
@@ -29,6 +30,9 @@ const Home = () => {
         content={MiddleBlockContent.text}
         button={MiddleBlockContent.button}
       />
+      <div>
+        <MyCarousel/>
+      </div>
       <ContentBlock
         type="left"
         title={AboutContent.title}
